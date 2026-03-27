@@ -13,7 +13,7 @@ This project is a RESTful API built using Node.js, Express.js, and SQLite. It al
 1. Install dependencies:
 npm install
 3. Start the server:
-npm run dev
+npm start
 5. Open in browser:
 http://localhost:3000
 
